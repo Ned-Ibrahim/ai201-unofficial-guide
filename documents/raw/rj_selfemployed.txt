@@ -1,0 +1,50 @@
+Can You Be Self-Employed on OPT or STEM OPT?
+International students on Optional Practical Training (OPT) often wonder if they can start their own businesses or work independently. While self-employment is generally allowed during the initial post-completion OPT period, the 24-month STEM OPT extension has stricter requirements that make self-employment highly restrictive, if not impossible, to qualify for. This blog covers the criteria for self-employment on OPT and compares employment conditions on OPT vs. STEM OPT.
+
+Self-Employment on OPT vs. STEM OPT: Key Differences
+On the 12-month post-completion OPT, students can typically work as freelancers, start their businesses, or even contract with multiple clients as long as the work relates to their field of study and meets the minimum 20-hour-per-week requirement.
+
+However, self-employment is not permitted during the 24-month STEM OPT extension. Here’s a quick comparison to highlight the differences in employment flexibility between post-completion OPT and STEM OPT:
+
+Employment Conditions	Post-Completion OPT	STEM OPT
+Allows for unpaid and paid positions	✅	❌ (Paid only)
+Minimum hours per week	20 hours across all jobs combined	20 hours per position
+E-Verify requirement	No	Yes
+Connection to field of study	Must relate to major listed on I-20	Must relate to STEM field; requires clear link to STEM skills
+Employment types	Allows temp, contract, short-term, and gig work	Must be direct employment with no third-party or staffing agencies
+Payment in academic environment	External fellowships allowed	Direct pay from institution only; no external fellowships allowed
+Self-employment	Permitted	Not permitted
+Unpaid/volunteer work	Allowed	Not allowed
+Reporting changes	10-day reporting rule with Post-Completion OPT Reporting Form	New I-983 form required before starting with any new employer
+Unemployment period	90 days maximum	150 days over OPT and STEM OPT combined
+Understanding Self-Employment on OPT
+For the initial 12-month OPT, self-employment is allowed as long as your work meets certain criteria:
+
+Related to Your Field of Study: Your business or freelance work must be directly related to the major listed on your Form I-20.
+Register Your Business: You should formally register your business, such as setting up a sole proprietorship or an LLC, to ensure compliance.
+Report Employment: Self-employed OPT students must report their work details to their Designated School Official (DSO) within the required timeframe, including how their work relates to their degree.
+Why Self-Employment Is Not Permitted on STEM OPT
+The STEM OPT extension is designed to provide structured training and supervision in STEM fields, which is why it restricts self-employment. Every STEM OPT job requires a Form I-983 Training Plan, detailing the training, supervision, and evaluation structure of the employment. This structured requirement disqualifies most self-employment or freelance roles.
+
+Key criteria for STEM OPT include:
+
+Supervised Employment: The I-983 Training Plan requires students to have a formal supervisor who can evaluate and oversee their work, which does not align with self-employment.
+Employer Registration with E-Verify: Each employer must be registered with the federal E-Verify program to hire STEM OPT students.
+Direct Relationship to STEM Skills: STEM OPT jobs must directly align with skills from your STEM degree, and the I-983 form requires a written explanation of how each position relates to your major.
+If you are considering working for more than one employer, each position requires its own I-983 Training Plan and must meet these strict conditions.
+
+How to Navigate STEM OPT Employment Requirements
+If you’re on STEM OPT and interested in entrepreneurship, you may have some limited options:
+
+Work for a STEM-Related E-Verify Employer: Consider working for an employer with E-Verify registration to gain experience and skills in your field. This option can provide hands-on training relevant to future entrepreneurial goals.
+Employment with Startups: Working at a startup registered with E-Verify can give you valuable insights into business operations and help you build skills for potential future self-employment.
+Side Projects: While your primary work must meet STEM OPT guidelines, engaging in personal projects or additional skill-building activities outside your OPT can help you prepare for a business venture after OPT.
+Reporting Requirements on OPT vs. STEM OPT
+Both OPT and STEM OPT require regular reporting of employment changes, but the STEM OPT reporting process is more formal and detailed:
+
+Post-Completion OPT Reporting: For standard OPT, students need to report new employment or changes to their DSO within 10 days.
+STEM OPT Reporting: Before beginning work for any new employer, a new I-983 Training Plan must be submitted and approved, detailing the supervision and relevance of the employment to your STEM field. Any changes to employment conditions or supervision must also be updated on the I-983.
+Final Thoughts: Planning for Entrepreneurship
+While STEM OPT’s structured requirements restrict self-employment, understanding the rules can help you maximize this training period. For many, working with a STEM-focused employer provides the practical training and network to succeed in future business ventures. With good planning, you can use this time to gain valuable skills and prepare for a transition to self-employment after completing your OPT period.
+
+

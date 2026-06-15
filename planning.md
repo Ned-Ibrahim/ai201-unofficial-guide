@@ -117,13 +117,15 @@ Aim for at least 10 sources covering CPT, OPT, STEM OPT, and paperwork — with 
 
 ## Chunking Strategy
 
-**Chunk size:** 256 tokens (~1,000 characters)
+**Chunk size:** 250 tokens (~1,000 characters)
 
-**Overlap:** 64 tokens (~25%, ~250 characters)
+**Overlap:** 64 tokens (~25%)
+
+**Total chunks:** 362
 
 **Reasoning:**
 
-The embedder, `all-MiniLM-L6-v2`, has a hard 256-token limit. Text past that point is dropped before it ever gets embedded, so a 512-token chunk would lose half its content silently. Setting chunk size to 256 fills that window without truncation.
+The embedder, `all-MiniLM-L6-v2`, has a hard 256-token limit. Chunk size is set to 250 tokens (not 256) — leaves room for the tokenizer's 2 special tokens within MiniLM's 256 limit. Text past that point is dropped before it ever gets embedded, so a 512-token chunk would lose half its content silently.
 
 The documents are mixed: dense USCIS and 8 CFR legal text, university advising FAQs, and law-firm articles. Their facts are conditional — a rule reads "X is allowed provided that A, B, and C." Split a rule from its conditions and the retriever can return "X is allowed" without the part that qualifies it, which is wrong and, in this domain, harmful. Smaller chunks split rules more often, so overlap goes up to 25% (instead of the usual 10–15%) to carry trailing conditions across the cut.
 
@@ -148,7 +150,7 @@ The main domain-specific risk is **OPT and STEM OPT rules bleeding into each oth
 
 ## Retrieval Approach
 
-**Embedding model:** `all-MiniLM-L6-v2` via `sentence-transformers==3.4.1` — matches the 256-token chunk ceiling; local, no API cost.
+**Embedding model:** `all-MiniLM-L6-v2` via `sentence-transformers==3.4.1` — paired with 250-token chunks under MiniLM's 256-token limit; local, no API cost.
 
 **Top-k:** 6 — sized to reconstruct conditional rules split across adjacent chunks; pairs with 25% overlap.
 
@@ -235,7 +237,7 @@ flowchart LR
 | Stage | Tool / library | Component | Responsibility |
 | ----- | -------------- | --------- | -------------- |
 | Document ingestion | Python, `pdfplumber` (for PDFs) | `load_documents()` | Read files from `documents/`; assign `source_type`, `source_subtype`, `phase`, `source_name`, `source_url`, `source_date` from folder path + Documents table |
-| Chunking | Python, `RecursiveCharacterTextSplitter` or custom | `chunk_text()` | 256-token chunks, 64-token overlap; structure-aware splits on headings → paragraphs → sentences; attach all metadata to every chunk |
+| Chunking | Python, `RecursiveCharacterTextSplitter` or custom | `chunk_text()` | 250-token chunks, 64-token overlap; structure-aware splits on headings → paragraphs → sentences; attach all metadata to every chunk |
 | Embedding | `sentence-transformers==3.4.1` | `embed_chunks()` | Embed with `all-MiniLM-L6-v2`; store vectors + metadata in Chroma |
 | Vector store | `chromadb>=0.6.0` | `build_index()` / `get_collection()` | Persist embeddings; expose filterable metadata (`phase`, `source_type`) |
 | Retrieval | ChromaDB | `retrieve(query, k=6)` | Return top-6 chunks with metadata; optional `phase` filter for OPT vs STEM vs CPT queries |
@@ -264,7 +266,7 @@ documents/
 | | |
 |---|---|
 | **AI tool** | Cursor (Claude agent) |
-| **Input** | Chunking Strategy section (256-token size, 64 overlap, recursive splitter), Source Taxonomy metadata fields, Documents table, folder convention, `requirements.txt` |
+| **Input** | Chunking Strategy section (250-token size, 64 overlap, recursive splitter), Source Taxonomy metadata fields, Documents table, folder convention, `requirements.txt` |
 | **Prompt to produce** | `load_documents(directory)` — walks `documents/`, reads `.txt`/`.md`, uses `pdfplumber` for `.pdf`; assigns metadata from path and a sources manifest. `chunk_text(document, metadata)` — recursive structure-aware splitter with specified size/overlap; returns list of chunk dicts with all metadata fields including `phase` and `section_title`. `ingest.py` CLI entry point that prints 3 sample chunks. |
 | **Verification** | Run `python ingest.py`; confirm 3 printed chunks show correct `source_type` (e.g. `government`), `phase` (e.g. `standard-OPT`), and non-empty `source_url`. Spot-check one USCIS chunk and one attorney chunk. |
 

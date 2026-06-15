@@ -1,0 +1,291 @@
+Post-Completion OPT
+Updated 06/04/26
+
+Quick Navigation
+
+Part 1: General OPT Information
+Part 2: Requesting an OPT I-20 from OIS
+Part 3: Filing the Form I-765
+Part 4: USCIS Application Decision
+Part 5: Maintaining F-1 Status While on OPT
+
+Part 1: General OPT Information
+Overview of Post-Completion OPT
+Post-Completion OPT is a type of work authorization for a student in F-1 status; as such, the student is required to maintain F-1 status and continue to report to OIS.
+A student on Post-Completion OPT can work in the U.S. for up to 12 months after completing their degree program.
+Employment must be directly related to their major field of study at USC.
+The OPT Application will require an OPT recommendation (OPT I-20) from OIS before filing a formal application (Form I-765) to United States Citizenship and Immigration Services (USCIS).
+Post-Completion OPT Eligibility Requirements
+To be eligible for OPT, a student:
+
+Must have maintained F-1 status for a minimum of one academic year (i.e., two consecutive academic semesters).
+Must have confirmed eligibility for graduation with their academic department/unit prior to initiating the OPT application process.
+Must not have accrued 12 months or more of full-time Curricular Practical Training at their current degree level. Part-time CPT does not impact OPT eligibility.
+Must not have previously completed OPT at the same degree level or a higher degree level. OPT can only be used once per degree level.
+Must have submitted the OPT application to USCIS as early as 90 days prior to their Program End Date and no later than 60 days after their Program End Date. USCIS will not accept applications received 60 days or more beyond the Program End Date. In addition to these filing dates, there are other important dates a student must consider when applying for OPT, which will be addressed below.
+Must be in the U.S. to file Form I-765.
+Does not need a job or job offer to apply for OPT.
+General Timeline of Post-Completion OPT Process
+Must be completed in this order:
+
+
+Return to Top
+Part 2: Requesting an OPT I-20 from OIS
+When to Submit the OPT I-20 Request to OIS
+A student must have confirmed eligibility for graduation with their academic department/unit prior to requesting the OPT I-20 from OIS. A student can request the OPT I-20 from OIS as early as 90 days prior to their Program End Date. The Program End Date is printed on the Form I-20. This date must align with the student’s actual graduation date.*
+
+Although USCIS accepts OPT applications up to 60 days after the Program End Date, the latest a student can request an OPT I-20 from OIS is 45 days after they complete their degree program. This will ensure OIS has ample time to review the OPT I-20 Request, have the student correct any issues if needed, recommend the OPT in SEVIS, email the OPT I-20 to the student, and provide enough time for the student to submit their OPT application to USCIS by the 60th day.
+
+Student should refer to the table below to determine the appropriate OPT I-20 Request Window based on their I-20 Program End Date.*
+
+Final Semester   	I-20 Program End Date* 	OPT I-20 REQUEST WINDOW
+Earliest OPT I-20 Request Submission Date 
+(90 Days Before Program End Date) 	Latest OPT I-20 Request Submission Date 
+(45 Days After Program End Date) 
+Spring 2026	05/15/2026	02/14/2026	06/29/2026
+Summer 2026 	08/11/2026	05/13/2026	09/25/2026 
+Fall 2026	12/16/2026	09/17/2026	01/30/2027
+*Master’s or doctoral thesis track students can use either the university’s official semester end date or their Thesis Upload Date as their graduation date for OPT application purposes.
+
+Students who choose to use their Thesis Upload Date as their graduation date must adjust the I-20 Program End Date in the above chart to reflect their actual Thesis Upload Date. This will adjust their new OPT I-20 Request Window.
+They may also need to apply for a Program Extension to extend their I-20 Program End Date before their current I-20 expires to ensure they have a valid Form I-20.
+Students who plan to use their Thesis Upload Date as their graduation date for OPT filing must meet with an OIS advisor at the start of their final semester, before their current Form I-20 expires. 
+
+Selecting a Requested OPT Start Date
+When completing the OPT I-20 Request, the student will be asked to enter a preferred OPT start date.
+
+A student can request a start date that is at least one day after their Program End Date and no more than 60 days after their Program End Date. If USCIS is unable to approve the I-765 application prior to the requested start date, they will approve a new start and end date for the OPT period. The student must wait for the Employment Authorization Document (EAD) from USCIS to verify the actual approved start and end date.
+
+Final Semester	Program End Date	Earliest Possible
+OPT Start Date Student Can Request
+(One Day After Program End Date)	Latest Possible
+OPT Start Date Student Can Request
+(60 Days After Program End Date)
+Spring 2026	05/15/2026	05/16/2026	07/14/2026
+Summer 2026 	08/11/2026	08/12/2026	10/10/2026
+Fall 2026	12/16/2026	12/17/2026	02/14/2027
+*A thesis student using their upload date for OPT filing purposes will need to adjust the requested OPT start date accor.
+How to Request an OPT I-20 from OIS
+A student can request an OPT I-20 from OIS through Trojan International. The “OPT I-20 Request” and the “OPT I-20 Request for Viterbi Graduate Students” include five videos as well as five short assessments to ensure the student understands the application requirements as well as the expectations while on OPT. The student is required to view each video and successfully pass each assessment to be able to submit the OPT I-20 Request in Trojan International. Please click the appropriate red button below to initiate your request.
+
+A student filling out the OPT I-20 Request will be required to provide Academic Advisor information (name and email address) so that the advisor can confirm the graduation date of the student.
+
+A student filling out the OPT I-20 Request for Viterbi Graduate Students will be required to provide a Graduation Verification Form (GVF) that they received from their myViterbi portal. For questions regarding the GVF, the student needs to reach out to Viterbi.
+
+Processing Time
+OPT I-20 Request Processing Time: 10 Business Days.
+
+The 10 business days do not begin until the Academic Advisor completes their portion of the OPT I-20 request.
+OIS advisor will review the student’s academic and immigration records to determine if the student has met all OPT eligibility requirements.
+OIS will email the student via their USC email accounts if the OPT I-20 request is incomplete or incorrect. The student will need to review, correct, and resubmit the OPT I-20 request in Trojan International. The 10-business-day processing tistart once OIS receives the resubmission.
+USCIS processing time is approximately 3-4 months, so we recommend the student request the OPT I-20 from OIS as soon as the OPT application period begins to avoid any delays with the OPT application decision from USCIS.
+
+Receiving the OPT I-20 from OIS
+If the information provided on the OPT I-20 Request is accurately completed and no further clarification is needed, the OIS advisor will issue an OPT I-20 and email it to the student’s USC email account within 10 business days from when the request was received by OIS.
+
+Please note that the major listed on the I-20 may not exactly match the USC major, as the USC major has been assigned a CIP (Classification of Instructional Programs) code from a standardized list maintained by the U.S. Department of Education.
+
+Sample I-20 CIP Code Major - OPT
+Once the student receives the OPT I-20 from OIS, they must print, sign, and date it. USCIS does not allow the student to sign the Form I-20 electronically. SEVP, U.S. Citizenship and Immigration Services (USCIS), Custs and Border Protection (CBP), and the Department of State (DoS) have confirmed they will accept Form I-20s electronically signed by Designated School Officials (DSO), also known as Senior International Student Advisors at OIS.
+
+Sample I-20 Issue Date - OPT
+The student must quickly move on to Part 3 of the OPT Instructions as the OPT I-20 is valid for only 30 days from the I-20 issue date.
+
+Return to Top
+Part 3: Filing the Form I-765
+How to File Form I-765
+After a student receives the OPT I-20 from OIS, they must file Form I-765 online via myUSCIS–the student must create an account with USCIS if they do not have one. Once the myUSCIS account has been created, the student can complete the Form I-765 online. They will be prompted to upload a copy of the hand-signed OPT I-20 along with other supporting documents and pay the non-refundable Form I-765 Filing Fee with a credit card or a debit card. The student must ensure their bank account has sufficient funds available to cover the Filing Fee to avoid any application rejections from USCIS.
+
+Guide to Filing Form I-765
+Please refer to OIS’s “Guide to Filing Form I-765 for Post-Completion OPT.” This guide provides detailed explanation of required documents and instructions specifically for the Form I-765. Please review this document carefully to avoid any erroneous mistakes that can cause issues (i.e. rejection, a request for evidence, or denial) with your application.
+
+Students must be physically present in the U.S. when filing their Form I-765. Failure to do so will result in denial of their application. Once Form I-765 is timely filed with USCIS, students are allowed to remain in the U.S. while their application is pending (under review).
+
+Important Dates to Consider
+The student can apply for OPT as early as 90 days prior to their program end date but no later than 60 days after their program end date. Once a student receives their OPT I-20 from OIS, they must file their Form I-765 within 30 days of the issue date of the OPT I-20. To clarify, USCIS must receive the student’s OPT application:
+
+No more than 30 days after the “Date Issue” on Page 1 of the OPT I-20.
+If the student misses this 30-day deadline, they must submit the OPT I-20 Reprint (Missed 30 Days/Date Change) Request in Trojan International BEFORE submitting the Form I-765 to USCIS.
+No more than 60 days after the “Program End Date” on Page 1 of the OPT I-20.
+USCIS will deny the Form I-765 if it is her deadline.
+USCIS follows Coordinated Universal Time (UTC) for submission deadlines. Your application must be submitted by 23:59 UTC on the specified deadline, regardless of your local time zone. To avoid denials due to missed filing deadlines, we strongly recommend submitting your application at least one day in advance of the due date. Please plan accordingly and confirm UTC conversions for your time zone
+Examples:
+30 Days From OPT I-20 Issuance Deadline: Student has a program end date of 08/06/2024. They are issued an OPT I-20 on 08/01/2024. Student files Form I-765 on 09/01/2024, more than 30 days from their OPT I-20 issue date. USCIS denies the I-765 application.
+60 Days After Program End Date Deadline: Student has a program end date of 08/06/2024. They are issue an OPT I-20 on 09/25/2024. Student files Form I-765 on 10/06/2024, more than 60 days after their program end date. USCIS denies the I-765 application.
+USCIS Photo Requirement Policy
+On December 12, 2025, USCIS updated its policy on how photographs are collected and reused for immigration applications.
+
+At this time, OPT and STEM OPT applicants must still submit two passport-style photos that meet U.S. Department of State passport photograph requirements, in accordance with current USCIS and OIS instructions.
+
+USCIS may also determine that a new photo is needed and may require a Biometrics Services Appointment (BSA) at a local Application Support Center (ASC). If you receive a biometrics notice or scheduling instructions, you must follow them carefully.
+
+Please regularly check your email, USPS mail, and USCIS online account for a biometrics notice and to ensure your mailing address is up to date. If you receive any USCIS notice about photos or biometrics and have questions, please make sure to submit the Request to Review USCIS Notice eForm and then attend OIS Live Advising for assistance.
+
+If you have been notified that a biometrics appointment will be scheduled but have not received your biometrics appointment notice within two weeks, you should submit a USCIS Case Inquiry for Non-Delivery of Notice.
+
+USCIS Policy Update on Discretion and Social Media Vetting
+USCIS has expanded the use of social media review in certain immigration applications. Student’s online activity may be considered as part of USCIS’ ing process. Officers will conduct a closer review of a student’s immigration history and compliance with U.S. laws. Promoting or supporting anti-American or antisemitic views will be considered serious negative factors and may lead to a denial of the application. The new policy is effective August 19, 2025 and applies to both pending requests and those filed on or after August 19, 2025
+
+Premium Processing
+A student who wishes to receive a response from USCIS prior to the estimated processing time can apply for Premium Processing for an additional fee.
+
+To apply for Premium Processing, the student can either request Premium Processing when initially filing the I-765 application, or they can file Form I-907, Request for Premium Processing Service at a later time.
+
+USCIS guarantees a response within 30 days of filing for a student who applies for Premium Processing.
+
+Return to Top
+
+Part 4: USCIS Application Decision
+USCIS Receipt Notice and Processing Times
+After filing Form I-765 online with the supporting documents and filing fee, the student will receive an I-797C Notice of Action receipt that includes a receipt number which they can use to check their case status.
+
+Sample I-765 Receipt Notice - OPT
+USCIS processing time during peak season (i.e. the Spring semester) is an estimated 3-4 months. For a student who successfully files Form I-907, Request for Premium Processing Service, USCIS grantees a response within 30 days.
+
+Although a job is not required to apply for OPT, the student should begin applying and interviewing for jobs while their OPT application is pending so they can secure a job offer and begin working once they receive their EAD in the mail and the start date on their EAD begins.
+
+Receiving Approval and EAD from USCIS.
+Sample I-765 Approval Notice - OPT
+If the OPT application is approved, USCIS will issue an approval notice which will be available in the student’s myUSCIS account.
+
+In addition to the Approval Notice, USCIS will mail the student the Employment Authorization Document (EAD). A student must wait until they receive the EAD in the mail to confirm their approved OPT start and end date.
+
+Sample EAD - OPT
+If a mistake is made on the EAD, a student should join OIS Live to speak with an advisor. Examples of mistakes include the following:
+
+Misspelled name
+Incorrect date of birth
+Incorrect category
+Incorrect start and/or end date
+EAD end date must fall within 14 months of the program end date listed on page 1 of your OPT I-20
+Receiving a Rejection, Request for Evidence, or Denial
+USCIS may send students an I-797C Notice of Action: Rejection, Request for Evidence (RFE), or an I-797C Notice of Action: Denial. If you receive one of these notices, you must submit the Request to Review USCIS Notice eForm to receive further guidance. After submitting the form, an advisor will review your case and follow up with next steps.
+
+Rejection
+
+If an application is rejected, the student will receive an I-797C Notice of Action: Rejection. USCIS will indicate the reason for rejection on the I-797C. A student who receives a rejection notice should:
+
+Submit the Request to Review USCIS Notice eForm
+Meet with an advisor in OIS Live to determine eligibility for resubmission of Form I-765.
+If eligible, request an updated OPT I-20 using the OPT I-20 Reprint Request in Trojan Internatnal.
+The student will then file a new Form I-765 along with supporting documents through myUSCIS no more than 30 days from the new OPT I-20 issue date and no more than 60 days from their Program End Date.
+Request for Evidence (RFE)
+
+A student may receive an RFE if USCIS needs more information before their applications can be processed. The RFE will explain which additional documents are required and a specific deadline by which to respond. The student will need to submit Request to Review USCIS Notice eForm prior to responding to the RFE.
+
+Denial
+
+If an application is denied, the student will receive an I-797C Notice of Action: Denial for the OPT application, in which USCIS will indicate the reason for denial. Due to processing times with USCIS, a student who is denied may not be eligible to reapply if they are no longer within 60 days from their Program End Dates. A student who receives a denial notice should:
+
+Submit the Request to Review USCIS Notice eForm
+Immediately meet with an advisor in OIS Live to determine eligibility for resubmission of Form I-765.
+If eligible, request an updated OPT I-20 using the OPT I-20 Reprint Request in Trojan International.
+The student will then file a new Form I-765 along with supporting documents through myUSCIS no more than 30 days from the new OPT I-20 issue date and no more than 60 days from their Program End Date.
+Missed OPT Filing Deadline
+
+A student who missed the filing deadline should join OIS Live to discuss their plans with an advisor.
+
+Return to Top
+
+Part 5: Maintaining F-1 Status While on OPT
+OPT Requirements
+In addition to complying with U.S. Laws and Immigration Requirements, failure to meet the following requirements may result in the automatic termination of the student’s SEVIS record by SEVP and/or USCIS.
+
+Direct Relation to Major
+
+Any employment on OPT must be directly related to the student’s major. USCIS determines whether a job is related. Therefore, the student should be able to:
+
+Provide an explanation to USCIS if asked how their job is related to their major at USC
+On a day-to-day basis, apply the knowledge they gained from their academic program to their job.
+A student can use the following templas a guide if needed in the future:
+
+“I work [insert full-time or part-time] as a [insert job title] for [insert employer name]. My duties include [insert list of job duties]. At this job, I use [insert list of relevant skills/knowledge from your coursework], which directly relates to my USC [insert degree level] in [insert field of study].
+
+Hours of Employment
+
+The student must work 20 hours per week or more. If the student has more than one employer, the total amount of hours among all employers must be at least 20.
+
+Types of Employment Permitted While on OPT
+
+Standard, full-time employer – Student works for one employer–at least 20 hours per week.
+Multiple employers – Student works for more than one employer–combined total should be at least 20 hours per week
+Multiple short-term employers – Musicians or other performing artists may work for multiple short-term employers (i.e. gigs). Student should maintain a list of all gigs, including the dates and duration of the gigs.
+Work for hire/contract – Also commonly referred to as 1099 employment, the term “work for hire” describes a service based on a contractual agreement rather than an employment relationship. This means that the individual is performing a service.
+Self-employment – Student may start a business and be self-employed. Student must be able to prove to DHS that they have the proper business licenses and are actively engaged in a business related to their degree program. OIS recommends that a self-employed student seeks consultation from a lawyer.
+Employment through an employment/staffing agency or consulting firm – Student may gain employment through a third party agency.
+Unpaid/volunteer jobs – Student may work on a volunteer basis or as unpaid interns, where this does not violate any U.S. labor laws. Labor laws vary by state. Check with the company’s human resources department for restrictions.
+Unemployment
+
+Student cannot exceed 90 days of unemployment during their authorized period of Post-Completion OPT. A student who accrues more than 90 days of unemployment is in violation of their F-1 status and should join OIS Live to discuss their options with an advisor.
+
+Reporting Requirements
+Updating U.S. Address
+
+While on OPT, student is required to report any change to their U.S. physical address within 10 days. Address updates must be submitted to OIS through the SEVIS U.S. Address and Contact Update form in Trojan International.
+
+Reporting Employment Update to OIS
+
+To maintain F-1 status while on approved OPT, student is required to report any change in employment within 10 days. All updates must be submitted to OIS through the OPT Employment Update form in Trojan International.
+
+Student must report the following changes:
+
+Adding new employer(s)
+Changes to current employment, such as:
+Job title
+Employer name
+Employer worksite address 
+Start or end date
+Relationship to field of study
+Permanent departure from the U.S. and forfeiture of the remaining OPT period
+Failure to comply with mandatory reporting requirements may result in the termination of the student’s immigration status by SEVP and/or USCIS.
+
+Creating an SEVP Portal Account (Optional)
+
+The SEVP Portal allows F-1 students on approved OPT to view employment information as reflected in their SEVIS record. However, if the student needs to report any changes to their OPT employment or U.S. address, they must utilize the OPT Employment Update or the SEVIS U.S. Address and Contact Update in Trojan International. Dthe SEVP Portal — changes made there will not be received or processed by OIS. 
+
+When the status of an OPT request in SEVIS changes to “Approved,” SEVIS notifies the SEVP Portal. Students will then receive an email from do-not-reply.SEVP@ice.dhs.gov to create an SEVP Portal account (see SEVP Portal account activation instructions). Student must create their SEVP Portal account within 14 days of receiving this link, regardless of employment status, if they wish to gain access to their SEVP Portal account. For additional guidance, see Study in the States: SEVP Portal Help, and SEVP Portal Videos. If you have locked yourself out of your SEVP account, or your log-in registration link has expired, please complete the SEVP Portal Reset Request. 
+
+Travel & Re-Entry to the U.S.
+Please refer to the Requirement for Re-entry to the U.S. section of the OIS website.
+
+Options After Post-Completion OPT
+Once a student reaches the end of their Post-Completion OPT authorization period, they will have a 60 day grace period in which they can remain in the United States and prepare for their next steps. Please keep in mind that students who are no longer enrolled at USC or participating in approved OPT will lose access to USC email, Shibboleth, Trojan International, and the SEVP Portal.
+
+STEM OPT Extension
+
+A graduate currently on post-completion OPT may be eligible for a 24-month extension of their work authorization if they have earned a bachelor’s, master’s, or doctoral degree in an eligible STEM field, as designated by USCIS. A student is eligible to apply up to 90 days prior to the end date listed on their EAD, and they must apply prior to this end date. For more information, the student may visit our STEM OPT Extension page.
+
+New Program of Study at USC
+
+Student must apply to the new program, be admitted, and be issued a new I-20 from the Office of Graduate Admissionore the end of the grace period.  Proof of funding is required to issue the new I-20. Please contact GA with questions regarding I-20 issuance.
+
+Transfer to Another Institution
+
+Student must apply to another institution, be admitted, and have the USC SEVIS record transferred out to the new institution before the end of the 60 day grace period. In addition, the start date at the transfer-in school must be within five months from the last date the student is on OPT. For instructions on how to request a transfer of the SEVIS record, refer to the Transfer SEVIS Record from USC to Another Institution page.
+
+Departure
+
+Student may choose to depart the U.S. upon completion of their OPT. They must depart by the end of their 60 day grace period.
+
+Change of Status
+
+If eligible for another non-immigrant or immigrant status, a student may apply for a change of status with USCIS. U.S. Citizenship and Immigration Services (USCIS) must receive the application to change the immigration status before the end of the grace period.
+
+Return to Top
+
+F-1 Student Employment
+On-Campus Employment
+Curricular Practical Training (CPT)
+Optional Practical Training (OPT)
+Post-Completion OPT
+OPT Frequently Asked Questions (FAQ)
+STEM OPT Extension
+STEM OPT Extension Frequently Asked Questions (FAQ)
+STEM OPT Extension Based on a Prior Degree
+OPT Cap-Gap Extension
+J-1 Student Employment
+U.S. Address Update
+
+Have you recently moved? Update your SEVIS U.S. address via Trojan International using the SEVIS U.S. Address and Contact Update eForm.
+
+
