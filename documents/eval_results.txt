@@ -1,0 +1,117 @@
+================================================================================
+Q1: What does USCIS require for post-completion OPT eligibility?
+
+GROUND TRUTH: Maintained F-1 status for one full academic year, employment directly related to major, DSO recommendation entered in SEVIS, file Form I-765 within the window; 12-month OPT cap.
+
+SYSTEM ANSWER:
+According to [2], to be eligible for post-completion OPT, a student must: 
+1. Have maintained F-1 status for a minimum of one academic year, 
+2. Have confirmed eligibility for graduation with their academic department/unit, 
+3. Not have accrued 12 months or more of full-time Curricular Practical Training at their current degree level, 
+4. Not have previously completed OPT at the same degree level or a higher degree level, 
+5. Submit the OPT application to USCIS as early as 90 days prior to their Program End Date and no later than 60 days after their Program End Date, and 
+6. Be in the U.S. to file Form I-765. Additionally, [1] and [5] provide general information about OPT eligibility, but [2] provides the most detailed list of requirements.
+
+RETRIEVED CHUNKS:
+  [1] dist=0.194 [standard-OPT] USC OIS — Post-Completion OPT
+      Post-Completion OPT Updated 06/04/26 Quick Navigation Part 1: General OPT Information Part 2: Requesting an OPT I-20 from OIS Part 3: Filing the Form I-765 Part
+  [2] dist=0.208 [standard-OPT] USC OIS — Post-Completion OPT
+      Post-Completion OPT Eligibility Requirements To be eligible for OPT, a student: Must have maintained F-1 status for a minimum of one academic year (i.e., two co
+  [3] dist=0.316 [standard-OPT] USCIS — OPT for F-1 Students
+      Alert Type info ALERT: Please remember that photos submitted to USCIS must be unmounted and unretouched. Unretouched means the photos must not be edited or digi
+  [4] dist=0.328 [standard-OPT] USC OIS — Post-Completion OPT
+      Travel & Re-Entry to the U.S. Please refer to the Requirement for Re-entry to the U.S. section of the OIS website. Options After Post-Completion OPT Once a stud
+  [5] dist=0.329 [standard-OPT] USCIS — OPT for F-1 Students
+      For more informn, please see the USCIS Policy Manual. ^G Get Help        ^O WriteOut        ^R Read File       ^Y Prev Pg         ^K Cut Text        ^C Cur Pos
+
+SOURCES CITED: ['USC OIS — Post-Completion OPT — https://ois.usc.edu/employment/employment-f1/opt/post-completion-opt/', 'USCIS — OPT for F-1 Students — https://www.uscis.gov/working-in-the-united-states/students-and-exchange-visitors/optional-practical-training-opt-for-f-1-students']
+
+================================================================================
+Q2: What form is required for STEM OPT training, and who completes it?
+
+GROUND TRUTH: Form I-983 Training Plan, completed jointly by the student and the employer and submitted to the DSO.
+
+SYSTEM ANSWER:
+The form required for STEM OPT training is Form I-983, Training Plan for STEM OPT Students [1], [2], [3], [4]. This form is completed by both the student and their employer, as they must work together to finalize the plan [2].
+
+RETRIEVED CHUNKS:
+  [1] dist=0.257 [general] 8 CFR 214.2(f) Regulation
+      8 CFR 214.2(f)(10)(ii)(C)(7) (7) Training Plan for STEM OPT Students, Form I–983 or successor form. 8 CFR 214.2(f)(10)(ii)(C)(7)(i)
+  [2] dist=0.303 [STEM-OPT] Form I-983 Instructions (STEM OPT Training Plan)
+      STEM OPT extension will not replace a full‐ or part‐time, temporary or permanent U.S. worker. The terms and conditions of the STEM practical training opportunit
+  [3] dist=0.320 [STEM-OPT] USCIS — STEM OPT Extension
+      As part of the STEM OPT extensiors must complete the appropriate parts of Form I-983, Training Plan for STEM OPT Students. In this form, employers attest that:
+  [4] dist=0.350 [STEM-OPT] USCIS — STEM OPT Extension
+      Terms and Conditions for Employer Participation To ensure the integrity of the program and provide safeguards for U.S. workers, any employer wishing to employ a
+  [5] dist=0.353 [STEM-OPT] USCIS — STEM OPT Extension
+      Optional Practical Training Extension for STEM Students (STEM OPT) Alert Type info ALERT: Please remember that photos submitted to USCIS must be unmounted and u
+
+SOURCES CITED: ['8 CFR 214.2(f) Regulation — https://www.nafsa.org/regulatory-information/8cfr2142f', 'Form I-983 Instructions (STEM OPT Training Plan) — https://www.ice.gov/doclib/sevis/pdf/i983Instructions.pdf', 'USCIS — STEM OPT Extension — https://www.uscis.gov/working-in-the-united-states/students-and-exchange-visitors/optional-practical-training-extension-for-stem-students-stem-opt']
+
+================================================================================
+Q3: What are the unemployment day limits on standard OPT versus STEM OPT?
+
+GROUND TRUTH: 90 days on standard post-completion OPT; 150 days total with the STEM OPT extension.
+
+SYSTEM ANSWER:
+According to [1] and [2], the unemployment day limits are as follows: 
+For standard OPT, you may be unemployed for up to 90 days [1], whereas for STEM OPT, you may be unemployed for an additional 60 days, for a total of 150 days [1] during the combined periods of OPT and STEM OPT [2].
+
+RETRIEVED CHUNKS:
+  [1] dist=0.308 [STEM-OPT] USCIS — STEM OPT Extension
+      After Receiving a STEM OPT Extension Student Reporting Responsibilities If you receive a STEM OPT extension, you must: Report changes to the following informati
+  [2] dist=0.343 [STEM-OPT] BU ISSO — 24-Month STEM OPT Employment Types
+      No I-983 STEM OPT Training Plan required	I-983 Training Plan is required to apply Allows for multiple employers	Allows for multiple employers, but for each new
+  [3] dist=0.343 [general] 8 CFR 214.2(f) Regulation
+      8 CFR 214.2(f)(10)(ii)(E) (E) Periods of unemployment during post-completion OPT. During post-completion OPT, F-1 status is dependent upon employment. Students
+  [4] dist=0.359 [general] 8 CFR 214.2(f) Regulation
+      . In no event may a student be authorized for more than two lifetime STEM OPT extensions. A student who was granted a 17-month OPT extension under the rule issu
+  [5] dist=0.368 [STEM-OPT] BU ISSO — 24-Month STEM OPT Employment Types
+      Allows for self-employment, employment with a temp agency, contract employment, short-term employment, gigging	I-983 Training Plan requires a bona fide employer
+
+SOURCES CITED: ['USCIS — STEM OPT Extension — https://www.uscis.gov/working-in-the-united-states/students-and-exchange-visitors/optional-practical-training-extension-for-stem-students-stem-opt', 'BU ISSO — 24-Month STEM OPT Employment Types — https://www.bu.edu/isso/employment-internships/student-off-campus-work-and-training/24-month-stem-opt/employment-types/', '8 CFR 214.2(f) Regulation — https://www.nafsa.org/regulatory-information/8cfr2142f']
+
+================================================================================
+Q4: Can I be self-employed on OPT, and does the answer differ for STEM OPT?
+
+GROUND TRUTH: Self-employment is allowed on standard OPT (degree-related, 20+ hrs/wk, proper licenses); on STEM OPT it is barred — a bona fide employer-employee relationship, E-Verify employer, and signed I-983 are required.
+
+SYSTEM ANSWER:
+Yes, you can be self-employed on OPT, as long as your work meets certain criteria, such as being related to your field of study and meeting the minimum 20-hour-per-week requirement [1, 2, 5]. However, self-employment is not permitted during the 24-month STEM OPT extension [1, 2, 5]. The STEM OPT extension has stricter requirements, including supervised employment and E-Verify registration, which make self-employment highly restrictive [2].
+
+RETRIEVED CHUNKS:
+  [1] dist=0.231 [general] RJ Immigration — Self-Employed on OPT or STEM OPT
+      Can You Be Self-Employed on OPT or STEM OPT? International students on Optional Practical Training (OPT) often wonder if they can start their own businesses or
+  [2] dist=0.258 [general] RJ Immigration — Self-Employed on OPT or STEM OPT
+      Related to Your Field of Study: Your business or freelance work must be directly related to the major listed on your Form I-20. Register Your Business: You shou
+  [3] dist=0.332 [general] RJ Immigration — Self-Employed on OPT or STEM OPT
+      STEM OPT Reporting: Before beginning work for any new employer, a new I-983 Training Plan must be submitted and approved, detailing the supervision and relevanc
+  [4] dist=0.346 [general] RJ Immigration — Self-Employed on OPT or STEM OPT
+      Employment with Startups: Working at a startup registered with E-Verify can give you valuable insights into business operations and help you build skills for po
+  [5] dist=0.366 [general] RJ Immigration — Self-Employed on OPT or STEM OPT
+      Employment Conditions	Post-Completion OPT	STEM OPT Allows for unpaid and paid positions	✅	❌ (Paid only) Minimum hours per week	20 hours across all jobs combined
+
+SOURCES CITED: ['RJ Immigration — Self-Employed on OPT or STEM OPT — https://rjimmigrationlaw.com/resources/can-i-be-self-employed-on-opt-or-stem-opt/']
+
+================================================================================
+Q5: Do I need an EIN to file taxes as a freelancer on OPT?
+
+GROUND TRUTH: No. An EIN is optional for a sole proprietor (SSN/ITIN works); obtaining one does not violate F-1 status. (NOTE: this is tax-law info not in the corpus — expected to be a coverage-gap failure / refusal.)
+
+SYSTEM ANSWER:
+According to [1], to ensure compliance, you should formally register your business, but it does not explicitly state that you need an EIN to file taxes as a freelancer on OPT. However, [2] mentions that an employer must "Have a valid Employer Identification Number (EIN) issued by the IRS for tax purposes" for STEM OPT, but this is for employers, not freelancers. I don't have enough information on that.
+
+RETRIEVED CHUNKS:
+  [1] dist=0.458 [general] RJ Immigration — Self-Employed on OPT or STEM OPT
+      Related to Your Field of Study: Your business or freelance work must be directly related to the major listed on your Form I-20. Register Your Business: You shou
+  [2] dist=0.559 [STEM-OPT] USCIS — STEM OPT Extension
+      Be enrolled in E-Verify, as evidenced by either a valid E-Verify company identification number or, if the employer is using an employer agent to create its E-Ve
+  [3] dist=0.560 [standard-OPT] USC OIS — Post-Completion OPT
+      Although a job is not required to apply for OPT, the student should begin applying and interviewing for jobs while their OPT application is pending so they can
+  [4] dist=0.568 [general] 8 CFR 214.2(f) Regulation
+      8 CFR 214.2(f)(11)(ii)(B) (B) The DSO must update the student's SEVIS record with the DSO's recommendation for OPT before the student can apply to USCIS for emp
+  [5] dist=0.569 [STEM-OPT] USCIS — STEM OPT Extension
+      DHS may, at its discretion, conduct a site visit of the employer to ensure that program requirements are being met, including that the employer possesses and ma
+
+SOURCES CITED: []
+

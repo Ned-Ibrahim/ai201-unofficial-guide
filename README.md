@@ -87,33 +87,17 @@ Each answer will include separate headings for Official / Unofficial layers plus
 
 ## Evaluation Report
 
-*(Run after Milestone 5 — retrieval + generation are wired up.)*
+Run via `python src/evaluate.py` (full transcript in `documents/eval_results.txt`). k=5 retrieval, cosine distance.
 
-| # | Question | Expected answer | System response (summarized) | Retrieval quality | Response accuracy |
-|---|----------|-----------------|------------------------------|-------------------|-------------------|
-| 1 | What does USCIS require for post-completion OPT eligibility? | Valid F-1, one academic year enrolled, employment related to major, DSO SEVIS recommendation, I-765 within filing window, 12-month OPT cap | | | |
-| 2 | What training plan form is required for STEM OPT, and when must it be submitted? | Form I-983; student + employer; submitted to DSO within 60 days of STEM OPT start | | | |
-| 3 | When should I apply for post-completion OPT relative to my program end date? | Up to 90 days before program end; no later than 60 days after | | | |
-| 4 | What are the unemployment day limits on standard OPT vs STEM OPT? | 90 days standard OPT; 150 days combined (initial + STEM) | | | |
-| 5 | Can I be self-employed on OPT, and does the answer differ for STEM OPT? | DHS allows self-employment on standard OPT under conditions; STEM OPT requires bona fide employer-employee relationship; attorney blogs note higher scrutiny | | | |
+| # | Question | Expected answer | System response (summary) | Retrieval | Accuracy |
+|---|----------|-----------------|---------------------------|-----------|----------|
+| 1 | What does USCIS require for post-completion OPT eligibility? | F-1 one academic year, major-related work, DSO SEVIS recommendation, I-765 in window, 12-mo cap | Listed all core requirements + 90/60 filing window (USC OIS, USCIS) | Relevant (0.19) | Accurate |
+| 2 | What form is required for STEM OPT training, and who completes it? | Form I-983, student + employer, submitted to DSO | I-983, completed jointly by student and employer | Relevant (0.26) | Accurate |
+| 3 | Unemployment day limits, standard OPT vs STEM OPT? | 90 days standard; 150 total with STEM | 90 standard, +60 → 150 total | Relevant (0.31) | Accurate |
+| 4 | Can I be self-employed on OPT, and does it differ for STEM OPT? | Allowed on OPT w/ conditions; barred on STEM (needs employer + E-Verify + I-983) | Yes on OPT w/ conditions; not permitted on STEM OPT | Relevant (0.23) | Accurate |
+| 5 | Do I need an EIN to file taxes as a freelancer on OPT? | No — optional for a sole proprietor; getting one doesn't violate status | Declined: "I don't have enough information on that." | Off-target (0.46–0.57) | **Inaccurate (failure)** |
 
-**Retrieval quality:** Relevant / Partially relevant / Off-target  
-**Response accuracy:** Accurate / Partially accurate / Inaccurate
-
----
-
-## Failure Case Analysis
-
-*(To complete after eval run.)*
-
-**Question that failed:**
-
-**What the system returned:**
-
-**Root cause (tied to a specific pipeline stage):**
-
-**What you would change to fix it:**
-
+A secondary limitation worth noting: Q4's correct answer was drawn entirely from the *unofficial* attorney source (RJ Immigration); the official USCIS/8 CFR self-employment language did not surface in the top-5, so a policy claim the domain would prefer to ground in official text is grounded in commentary.
 ---
 
 ## Spec Reflection
@@ -143,12 +127,12 @@ The spec planned a nested folder layout (`documents/official/government/`, etc.)
 - *What I changed or overrode:* Trimmed the document list to the 10 sources actually collected so far; deferred student forum sources and UNL ISS pages to a later milestone.
 
 ---
-
-## Pipeline (current)
+## Pipeline
 
 ```bash
-python src/load.py    # documents/raw → documents/raw_text
-python src/clean.py   # documents/raw_text → documents/clean
-python src/chunk.py   # documents/clean → documents/chunks.jsonl (362 chunks)
-# Next: embed → ChromaDB → Groq generation → Gradio UI
-```
+python src/load.py      # documents/raw → documents/raw_text  (pdfplumber + file load)
+python src/clean.py     # documents/raw_text → documents/clean (strip HTML/nav, decode entities)
+python src/chunk.py     # documents/clean → documents/chunks.jsonl (362 chunks, 250/64, metadata)
+python src/index.py     # chunks.jsonl → ChromaDB (all-MiniLM-L6-v2, cosine)
+python src/evaluate.py  # runs the 5 eval questions → documents/eval_results.txt
+python app.py           # Gradio UI at http://localhost:7860
