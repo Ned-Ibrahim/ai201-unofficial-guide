@@ -2,7 +2,6 @@
 
 > **F-1 OPT / STEM OPT RAG guide** — official USCIS/DHS policy plus university ISS pages and attorney commentary, with every answer tagged Official vs Unofficial.
 
-Benjamin, saw the PSVIEW post. Spent a year shipping production AI at Ameritas, daily user calls included. Just finished CS, free 6 months, ready for SF. Let's talk?
 
 ---
 
