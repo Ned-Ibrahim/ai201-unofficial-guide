@@ -1,0 +1,11 @@
+original_filename,source_type,source_subtype,source_name,source_url,source_date,phase
+uscis_opt_f1.txt,government,USCIS,USCIS — OPT for F-1 Students,https://www.uscis.gov/working-in-the-united-states/students-and-exchange-visitors/optional-practical-training-opt-for-f-1-students,2025-11,standard-OPT
+uscis_stem_opt.txt,government,USCIS,USCIS — STEM OPT Extension,https://www.uscis.gov/working-in-the-united-states/students-and-exchange-visitors/optional-practical-training-extension-for-stem-students-stem-opt,2025-11,STEM-OPT
+dhs_entrepreneurship.txt,government,DHS-SEVP,DHS — International Students and Entrepreneurship,https://studyinthestates.dhs.gov/international-students-and-entrepreneurship,2025-11,general
+nafsa_8cfr.txt,government,NAFSA,8 CFR 214.2(f) Regulation,https://www.nafsa.org/regulatory-information/8cfr2142f,2025-11,general
+usc_postopt.txt,university,ISS,USC OIS — Post-Completion OPT,https://ois.usc.edu/employment/employment-f1/opt/post-completion-opt/,2025-11,standard-OPT
+bu_stem_types.txt,university,ISS,BU ISSO — 24-Month STEM OPT Employment Types,https://www.bu.edu/isso/employment-internships/student-off-campus-work-and-training/24-month-stem-opt/employment-types/,2025-11,STEM-OPT
+rj_selfemployed.txt,attorney,law-firm,RJ Immigration — Self-Employed on OPT or STEM OPT,https://rjimmigrationlaw.com/resources/can-i-be-self-employed-on-opt-or-stem-opt/,2025-11,general
+i-765instr.pdf,government,USCIS,Form I-765 Instructions,https://www.uscis.gov/sites/default/files/document/forms/i-765instr.pdf,2025-11,general
+i983_instructions.pdf,government,ICE,Form I-983 Instructions (STEM OPT Training Plan),https://www.ice.gov/doclib/sevis/pdf/i983Instructions.pdf,2025-11,STEM-OPT
+opt_directly_related.pdf,government,ICE,ICE — OPT Directly Related to Major Guidance,https://www.ice.gov/doclib/sevis/pdf/optDirectlyRelatedGuidance.pdf,2025-11,general
